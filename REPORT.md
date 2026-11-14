@@ -1,7 +1,7 @@
 # Итоговый аналитический отчет (Лабораторная работа №1)
 
 **Дисциплина:** Моделирование и анализ программного обеспечения
-**Репозиторий:** https://github.com/ВАШ_НИК/lab1-comprehensive-pchelakov
+**Репозиторий:** (https://github.com/p4ela1409-ai/lab1-comprehensive-Pchelakiov)
 
 ## 1. Резюме (Executive Summary)
 
@@ -59,13 +59,14 @@ ACID-транзакций, так как микросервис хранит и�
 - `feature/*` — ветки под задачи: `feature/infrastructure`,
   `feature/qa-gates`, `feature/review-plan`.
 
-Ссылка на репозиторий: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Ссылка на репозиторий: (https://github.com/p4ela1409-ai/lab1-comprehensive-Pchelakiov)
 
 ### 3.2. Контроль доступа
 
 **Branch protection для `develop`:**
 ![Branch Protection](docs/screenshots/branch-protection.png)
-<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+<!-- <img width="1170" height="738" alt="image" src="https://github.com/user-attachments/assets/262f7a60-a389-4c4f-a932-9908a4a71bfc" />
+ -->
 
 **Содержимое `.github/CODEOWNERS`:**
 @p4ela1409-ai
@@ -85,7 +86,8 @@ Workflow: [`.github/workflows/qa.yml`](.github/workflows/qa.yml)
 
 **Скриншот перехода статуса red → green:**
 ![Quality Gate](docs/screenshots/quality-gate.png)
-<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+<!-- <img width="1294" height="1073" alt="image" src="https://github.com/user-attachments/assets/b8046b33-7bbf-4457-acce-947e01e32c9f" />
+-->
 
 **Текст ошибки линтера (первый прогон):**
 src/discount.py:1:1: F401 'os' imported but unused
@@ -143,7 +145,8 @@ src/discount.py:18:80: E501 line too long (118 > 79 characters)
 
 Ссылка на открытый Pull Request с файлом `docs/review-plan.md`:
 https://github.com/ВАШ_НИК/lab1-comprehensive-ВашаФамилия/pull/НОМЕР
-<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+<!-- <img width="1381" height="1025" alt="image" src="https://github.com/user-attachments/assets/54b3ce4a-fed1-4271-b893-b8b121d9f554" />
+ -->
 
 ## 6. Заключение
 
