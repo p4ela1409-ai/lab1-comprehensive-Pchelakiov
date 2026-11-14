@@ -144,7 +144,7 @@ src/discount.py:18:80: E501 line too long (118 > 79 characters)
 проблемы безопасности/фрода).
 
 Ссылка на открытый Pull Request с файлом `docs/review-plan.md`:
-https://github.com/ВАШ_НИК/lab1-comprehensive-ВашаФамилия/pull/НОМЕР
+https://github.com/p4ela1409-ai/lab1-comprehensive-ВашаФамилия/pull/НОМЕР
 <!-- <img width="1381" height="1025" alt="image" src="https://github.com/user-attachments/assets/54b3ce4a-fed1-4271-b893-b8b121d9f554" />
  -->
 
